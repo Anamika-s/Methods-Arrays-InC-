@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "ConsoleApp\Methods.csproj", "{53FA7C20-6AEA-4697-B5AA-46DDC9A364D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{702E8A44-6E28-4C2F-80AA-EBEBE83A9DA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDemo", "ConsoleApp1\ArrayDemo.csproj", "{E10A515D-8F5F-4188-A669-3805B8936283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53FA7C20-6AEA-4697-B5AA-46DDC9A364D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FA7C20-6AEA-4697-B5AA-46DDC9A364D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FA7C20-6AEA-4697-B5AA-46DDC9A364D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FA7C20-6AEA-4697-B5AA-46DDC9A364D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{702E8A44-6E28-4C2F-80AA-EBEBE83A9DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702E8A44-6E28-4C2F-80AA-EBEBE83A9DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702E8A44-6E28-4C2F-80AA-EBEBE83A9DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702E8A44-6E28-4C2F-80AA-EBEBE83A9DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E10A515D-8F5F-4188-A669-3805B8936283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10A515D-8F5F-4188-A669-3805B8936283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10A515D-8F5F-4188-A669-3805B8936283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10A515D-8F5F-4188-A669-3805B8936283}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B688A19-71E9-4787-B833-98E86D7644F3}
+	EndGlobalSection
+EndGlobal
